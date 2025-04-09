@@ -163,12 +163,3 @@ _Role: ADMIN_
 - React or Angular frontend client
 
 ---
-
-## 📜 License
-
-MIT License
-```
-
----
-
-Let me know when you’re ready to push this to GitHub, or if you want help writing a `.gitignore` or deploying the project online!
